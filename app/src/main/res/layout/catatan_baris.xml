@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:clickable="true"
+    android:focusable="true"
+    android:foreground="?attr/selectableItemBackground"
+    android:paddingBottom="@dimen/padding10"
+    android:paddingTop="@dimen/padding10"
+    android:paddingLeft="@dimen/padding16"
+    android:paddingRight="@dimen/padding16">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvTimestamp"
+        android:textColor="@color/timestampColor"
+        android:textSize="@dimen/timestampSize" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvCatatan"
+        android:layout_below="@id/tvTimestamp"
+        android:textColor="@color/catatanColor"
+        android:textSize="@dimen/catatanSize" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@id/tvCatatan"
+        android:layout_marginTop="@dimen/padding10"
+        android:background="@android:color/darker_gray" />
+
+</RelativeLayout>

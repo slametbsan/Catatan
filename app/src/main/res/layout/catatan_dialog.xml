@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingRight="@dimen/padding16"
+    android:paddingLeft="@dimen/padding16"
+    android:paddingTop="@dimen/padding16">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvJudulDialog"
+        android:layout_marginBottom="@dimen/padding10"
+        android:fontFamily="sans-serif-medium"
+        android:lineSpacingExtra="8sp"
+        android:text="@string/catatanBaruLabel"
+        android:textColor="@color/colorPrimary"
+        android:textSize="@dimen/judulCatatanSize"
+        android:textStyle="normal" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/etCatatan"
+        android:background="@android:color/transparent"
+        android:gravity="top"
+        android:hint="@string/hintCatatan"
+        android:inputType="textCapSentences|textMultiLine"
+        android:lines="10"
+        android:textColorHint="@color/hintCatatanColor"
+        android:textSize="@dimen/etCatatanSize" />
+</LinearLayout>

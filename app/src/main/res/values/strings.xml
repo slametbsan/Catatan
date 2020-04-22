@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Catatan</string>
+    <string name="menuAbout">Tentang</string>
+    <string name="ivCatatanKosong">ikon catatan kosong</string>
+    <string name="catatanKosongText">Belum ada catatan!</string>
+    <string name="catatanBaruLabel">Buat Catatan</string>
+    <string name="hintCatatan">Ayo tuliskan catatanmu!</string>
+    <string name="catatanEditLabel">Edit Catatan</string>
+    <string name="deskripsiApp">Contoh Aplikasi dalam menerapkan SQLite sederhana di Android.</string>
+</resources>

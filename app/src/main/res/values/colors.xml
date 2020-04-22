@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="timestampColor">#858585</color>
+    <color name="catatanColor">#232323</color>
+    <color name="catatanKosongColor">#999999</color>
+    <color name="hintCatatanColor">#c3c3c3</color>
+</resources>
