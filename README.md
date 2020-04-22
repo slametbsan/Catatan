@@ -9,7 +9,7 @@ Anda yang berminat untuk mempelajari tentang SQLite bisa dari berbagai sumber, G
 ## Error
 Jika anda menjumpai *error* saat menggunakan project ini, *Google it first, please!*
 Jawaban dari berbagai *error* yang anda jumpai sudah tersedia, karena... **Anda bukan yang pertama menjumpainya.**
-Saya juga tidak bisa menjanjikan untuk pertanyaan-pertanyaan yang jawabannya sudah ada di awan, _again... **Google it!*_
+Saya juga tidak bisa menjanjikan untuk pertanyaan-pertanyaan yang jawabannya sudah ada di awan, _again... **Google it!**_
 
 ## Android Playstore
 Aplikasi hasil *build* dari project ini sedang dalam proses unggah ke Playstore. Nanti setelah lolos verifikasi dan tayang, README ini akan diperbarui.
